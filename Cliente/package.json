@@ -1,0 +1,20 @@
+{
+  "name": "app_cliente",
+  "version": "1.0.0",
+  "description": "Aplicación de seudo front para mostrar el flujo del sistema de consulta de cliente",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lany Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "import": "0.0.6",
+    "inquirer": "^7.3.3",
+    "math": "0.0.3",
+    "node-fetch": "^2.6.1"
+  }
+}
