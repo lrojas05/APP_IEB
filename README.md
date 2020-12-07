@@ -6,6 +6,6 @@ Internamente tiene dos carpetas que representa los dos sistemas:
 
 1) npm install
 2) Cliente  (Ejecutar con node src/cliente)
-   Supermercado (Ejecutar con node/supermercado)
+3) Supermercado (Ejecutar con node/supermercado)
 
 
