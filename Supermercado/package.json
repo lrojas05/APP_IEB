@@ -1,0 +1,15 @@
+{
+  "name": "app_supermercado",
+  "version": "1.0.0",
+  "description": "Aplicación seudo front para mostrar flujo de sistema de supermercado",
+  "main": "supermercado.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lany Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "math": "0.0.3"
+  }
+}
